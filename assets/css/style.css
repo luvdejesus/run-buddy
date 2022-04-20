@@ -39,6 +39,8 @@ header h1 {
 
     margin: 0;
 
+    display: inline;
+
 }
 
 header a {
@@ -70,20 +72,6 @@ header nav ul li a {
     font-weight: lighter;
 
     font-size: 22px;
-
-}
-
-header h1 {
-
-    font-weight: bold;
-
-    font-size: 36px;
-
-    color: #fce138;
-
-    margin: 0;
-
-    display: inline;
 
 }
 
@@ -331,6 +319,10 @@ section {
 .trainer {
 
     text-align: center;
+
+}
+
+.trainer {
 
     width: 900px;
 
